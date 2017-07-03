@@ -34,7 +34,7 @@ library(httr)
 
 setwd("C:/Users/eesy2_000/Documents/MBA/Marketing A")
 
-# Twitter Auth
+# Twitter Authe
 
 key <- "fpM3O16SMPkl9VBho8WyIkhq3"
 secret <- "TO9EUsU1R7u5mpoM8GUZrhWkgsqHe9zHXE79EPjdQKXwYa0gEh"
