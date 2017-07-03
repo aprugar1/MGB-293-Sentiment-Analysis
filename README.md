@@ -4,11 +4,8 @@
 #install packages
 
 install.packages("twitteR")
-
 install.packages("ROAuth")
-
 install.packages("RCurl")
-
 install.packages("stringr")
 install.packages("tm"")
 install.packages("ggmap")
